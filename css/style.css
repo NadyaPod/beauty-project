@@ -343,17 +343,17 @@ hr {
 }
 
 .social-youtube {
-	background-image: url(https://nadyapod.github.io/beauty-project/img/youtube.svg);
+	background-image: url(../img/youtube.svg);
 }
 
 .social-vk {
-	background-image: url(/img/vk.svg);
+	background-image: url(../img/vk.svg);
 }
 
 .social-fb {
-	background-image: url(/img/fb.svg);
+	background-image: url(../img/fb.svg);
 }
 
 .social-instagram {
-	background-image: url(/img/instagram.svg);
+	background-image: url(../img/instagram.svg);
 }
